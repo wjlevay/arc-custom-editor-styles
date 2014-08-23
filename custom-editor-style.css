@@ -1,0 +1,23 @@
+/* Custom styles for TinyMCE editor */
+
+body#tinymce.wp-editor .highlight { 
+    background-color: #f0ffa0;
+}
+
+body#tinymce.wp-editor .lightweight { 
+	font-family: "Amplitude Light";
+	font-style: normal;
+	font-weight: normal;
+}
+
+body#tinymce.wp-editor .mediumweight { 
+	font-family: "Amplitude Medium";
+	font-style: normal;
+	font-weight: bold;
+}
+
+body#tinymce.wp-editor .heavyweight { 
+	font-family: AmplitudeWide;
+	font-style: normal;
+	font-weight: bold;
+}
